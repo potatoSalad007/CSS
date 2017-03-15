@@ -1,0 +1,104 @@
+body
+{
+  background-color: #2B2B2B;
+  color: white;
+  font-family: helvetica;
+  margin: 0;
+}
+#resumePic
+{
+  float: right;
+  max-width: 300px;
+  margin-top: 75px;
+  margin-right: 50px;
+}
+.mainBody
+{
+  margin: 80px 25px;
+}
+h2
+{
+  margin-bottom: 0px;
+}
+p
+{
+  margin-bottom: 0px;
+}
+
+.pinkColor
+{
+  color: #F20089;
+}
+.greenColor
+{
+  color: #38FF38;
+}
+.purpleColor
+{
+  color: #B762FC;
+}
+.creamColor
+{
+  color: #F9FF8F;
+}
+.blueColor
+{
+  color: #298EF2;
+}
+
+.subList
+{
+  font-size: 18px;
+}
+
+#mainContent
+{
+  margin-top: 0px;
+  margin-left: 40px;
+  font-size: 25px;
+}
+.subContent
+{
+  margin-left: 140px;
+  max-width: 600px;
+  font-size: 20px;
+}
+
+#ulMenu
+{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #1C1C1C;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.liMenu
+{
+  float: left;
+}
+li a
+{
+  display: block;
+  color: #808080;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+a:hover
+{
+  background-color: black;
+  color: #B3B3B3;
+}
+.selected
+{
+  background-color: #2B2B2B;
+  color: white;
+}
+
+#linkedin
+{
+  color: #808080;
+  text-decoration: none;
+}
